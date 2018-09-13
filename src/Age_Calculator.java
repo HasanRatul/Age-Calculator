@@ -9,7 +9,6 @@ public class Age_Calculator {
 		String[] parts = new String[10];
 
 		System.out.println("---Welcome to Age Calculator---");
-		System.out.println("Git Check");
 		System.out.println("There are two choices in this projrct:");
 		System.out.print("1. From one date to another & ");
 		System.out.println("2. Your age till now.");
